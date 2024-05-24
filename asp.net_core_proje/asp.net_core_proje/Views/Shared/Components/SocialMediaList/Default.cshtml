@@ -1,0 +1,7 @@
+﻿@model List<SocialMedia>
+
+	@foreach(var i in Model){
+
+	<li class="nav-item"><a class="nav-link" href="@i.Url"><i class="fab fa-@i.Icon"></i><span class="menu-title sr-only">@i.Name</span></a></li>
+
+	}

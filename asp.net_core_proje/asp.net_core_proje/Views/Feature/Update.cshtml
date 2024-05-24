@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model Feature
+
+
+
+
+
+
+<div class="container-contact100">
+    <div class="wrap-contact100">
+        <span class="contact100-form-title">
+            Giriş Ekranı Güncelle
+        </span>
+        <form method="post" class="contact100-form validate-form">
+            <div class="wrap-input100 validate-input" data-validate="">
+                <input asp-for="FeatureID" class="input100" type="text" hidden enabled>
+                <span class="focus-input100"></span>
+            </div>
+            <div class="wrap-input100 validate-input" data-validate="">
+                <input asp-for="Name" class="input100" type="text" placeholder="Adınız" required>
+                <span class="focus-input100"></span>
+            </div>
+
+            <div class="wrap-input100 validate-input">
+                <input asp-for="Department"  class="input100" type="int" placeholder="Departmanınız" required>
+                <span class="focus-input100"></span>
+            </div>
+
+            <div class="container-contact100-form-btn">
+                <button class="contact100-form-btn">
+                    Kaydet
+                </button>
+            </div>
+        </form>
+
+
+    </div>
+</div>

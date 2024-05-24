@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model About
+
+
+
+@await Html.PartialAsync("_linkscript")
+
+
+<div class="container-contact100" style="color:#38425e;background-color:#38425e;">
+    <div class="wrap-contact100">
+        <span class="contact100-form-title">
+          Hakkında Güncelle
+        </span>
+        <form method="post" class="contact100-form validate-form" enctype="multipart/form-data">
+            <div class="wrap-input100 validate-input" data-validate="">
+                <input asp-for="AboutID" class="input100" type="text" hidden required>
+                <span class="focus-input100"></span>
+            </div>
+          
+
+            <div class="wrap-input100 validate-input">
+                <label>Yaş</label>
+                <input asp-for="Age" class="input100" type="int" placeholder="Yaş" required>
+                <span class="focus-input100"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <label>Telefon No</label>
+                <input asp-for="Phone" class="input100" type="int" placeholder="Telefon No" required>
+                <span class="focus-input100"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <label>Email</label>
+                <input asp-for="Email" class="input100" type="int" placeholder="Email" required>
+                <span class="focus-input100"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <label>Adres</label>
+                <input asp-for="Adrress" class="input100" type="int" placeholder="Adres" required>
+                <span class="focus-input100"></span>
+            </div>
+            <div class="wrap-input100 validate-input" >
+                <label>Hakkınızda</label>
+                <textarea asp-for="Description" class="input100" type="text" placeholder="Hakkında" required></textarea>
+                <span class="focus-input100"></span>
+            </div>
+
+            <div class="wrap-input100 validate-input">
+				<label for="image">Resim Seç:</label>
+                <input asp-for="ImageUrl" type="text" id="image" accept="image/*">
+            </div>
+
+
+           
+
+
+
+            <div class="container-contact100-form-btn">
+                <button class="contact100-form-btn">
+                    Kaydet
+                </button>
+            </div>
+        </form>
+
+
+    </div>
+</div>
+
+

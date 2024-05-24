@@ -1,0 +1,22 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@model Services
+<div class="container-contact100">
+    <div class="wrap-contact100">
+        <span class="contact100-form-title">
+            Hizmetler Ekle
+        </span>
+        <form method="post" class="contact100-form">
+            <div class="wrap-input100 validate-input">
+                <input class="input100" type="text" asp-for="ServicesID" hidden disabled>
+                <span class="focus-input100"></span>
+            </div>
+            @await Html.PartialAsync("_AddUpdateLayout")
+        </form>
+
+
+
+    </div>
+</div>

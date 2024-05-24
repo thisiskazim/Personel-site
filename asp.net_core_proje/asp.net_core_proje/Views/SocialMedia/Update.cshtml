@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+@model SocialMedia
+
+<div class="container-contact100">
+    <div class="wrap-contact100">
+        <span class="contact100-form-title">
+            Sosyal Medya Ekle
+        </span>
+        <form id="yourFormId" method="post" class="contact100-form">
+            <div class="wrap-input100 validate-input">
+                <input class="input100" type="text" asp-for="SocialMeadiaID" hidden enabled>
+                <span class="focus-input100"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <input class="input100" type="text" asp-for="Name" placeholder="Adı" required>
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <input class="input100" type="text" asp-for="Url" placeholder="URL" required>
+                <span asp-validation-for="Url"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+
+                <input class="input100" type="text" asp-for="Icon" placeholder="İcon" required>
+                <span asp-validation-for="Icon"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <label style="color:black;">Aktif/Pasif</label>
+                <input class="input100" id="statusCheckbox" type="checkbox" asp-for="Status">
+
+            </div>
+
+            <div class="container-contact100-form-btn">
+                <button class="contact100-form-btn">
+                    Kaydet
+                </button>
+            </div>
+        </form>
+
+
+    </div>
+</div>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var form = document.getElementById("yourFormId"); // Formun id'sini kullanarak formu seçin
+        var checkbox = document.getElementById("statusCheckbox"); // Checkbox'un id'sini kullanarak checkbox'u seçin
+
+        form.addEventListener("submit", function (event) {
+            // Checkbox'un durumunu form verilerine ekleyin
+            var hiddenInput = document.createElement("input");
+            hiddenInput.setAttribute("value", checkbox.checked ? "true" : "false");
+            form.appendChild(hiddenInput);
+        });
+    });
+
+
+</script>

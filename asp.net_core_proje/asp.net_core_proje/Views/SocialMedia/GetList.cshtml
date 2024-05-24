@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewData["Title"] = "GetList";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+  
+}
+
+
+
+@model List<SocialMedia>
+
+
+@await Html.PartialAsync("_LinkScript")
+
+<body id="table-body">
+    <div class="container-xl mt-5 p-5">
+        <div class="table-responsive">
+            <div class="table-wrapper">
+                <div class="table-title">
+                    <a href="/SocialMedia/Add" class="btn btn-success">Yeni Sosyal Medya Ekle</a>
+                    <div class="row">
+                        <div class="col-sm-8"><h2><b>Sosyal Medyalar</b></h2></div>
+                        <div class="col-sm-4">
+                            <div class="search-box">
+                                <i class="material-icons">&#xE8B6;</i>
+                                <input type="text" class="form-control" placeholder="Search&hellip;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <table class="table table-striped table-hover table-bordered">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Adı</th>
+                            <th>Url</th>
+                            <th>İcon</th>
+                            <th>Aktif/Pasif</th>
+                            <th>Güncelle-Sil</th>
+
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.SocialMeadiaID</td>
+                                <td>@item.Name</td>
+                                <td>@item.Url</td>
+                                <td>@item.Icon</td>
+                                @if (item.Status == true)
+                                {
+                                    <td style="background-color:green">Aktif</td>
+                                }
+                                else
+                                {
+                                    <td style="background-color:red">Pasif</td>
+                                }
+
+                                <td>
+                                    <a href="/SocialMedia/Update/@item.SocialMeadiaID" class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons">&#xE254;</i></a>
+                                    <a href="/SocialMedia/Delete/@item.SocialMeadiaID" class="delete" onclick="return confirm('Silmek istediğinize emin misiniz?')" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE872;</i></a>
+                                </td>
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+
+
+            </div>
+        </div>
+    </div>
+</body>
+
+

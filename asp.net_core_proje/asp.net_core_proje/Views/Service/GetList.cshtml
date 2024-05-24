@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "GetList";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+@model List<Services>
+
+
+@await Html.PartialAsync("_LinkScript")
+<body id="table-body">
+    <div class="container-xl mt-5 p-5">
+        <div class="table-responsive">
+            <div class="table-wrapper">
+                <div class="table-title">
+                    <a href="/Service/Add" class="btn btn-success">Yeni Kayıt Ekle</a>
+                    <div class="row">
+                        <div class="col-sm-8"><h2><b>Hizmetler</b></h2></div>
+                        <div class="col-sm-4">
+                            <div class="search-box">
+                                <i class="material-icons">&#xE8B6;</i>
+                                <input type="text" class="form-control" placeholder="Search&hellip;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <table class="table table-striped table-hover table-bordered">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Hizmet Adı</th>
+                            <th>Fotoğraf</th>
+                          
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.ServicesID</td>
+                                <td>@item.Name</td>
+                              
+                                <td>
+                                    <img width="40px" height="40px" style="border:hidden" src="@item.ImagegUrl">
+                                </td>
+
+
+                                <td>
+                                    <a href="#" class="view" title="View" data-toggle="tooltip"><i class="material-icons">&#xE417;</i></a>
+                                    <a href="/Service/Update/@item.ServicesID" class="edit" title="Edit" data-toggle="tooltip"><i class="material-icons">&#xE254;</i></a>
+                                    <a href="/Service/Delete/@item.ServicesID" class="delete" onclick="return confirm('Silmek istediğinize emin misiniz?')" title="Delete" data-toggle="tooltip"><i class="material-icons">&#xE872;</i></a>
+
+                                </td>
+                            </tr>
+                        }
+
+
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+</body>

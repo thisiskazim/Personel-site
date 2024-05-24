@@ -1,0 +1,44 @@
+﻿@model About
+
+<div class="section pt-4 px-3 px-lg-4" id="about">
+    <div class="container-narrow">
+        <div class="row">
+       
+                 <div class="col-md-6">
+                <h2 class="h4 my-2">Hakkımda</h2>
+                <p>@Model.Description</p>
+                <div class="row mt-3">
+                    <div class="col-sm-2">
+                        <div class="pb-1">Yaş:</div>
+                    </div>
+                    <div class="col-sm-10">
+                        <div class="pb-1 fw-bolder">@Model.Age</div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="pb-1">E-mail:</div>
+                    </div>
+                    <div class="col-sm-10">
+                        <div class="pb-1 fw-bolder">@Model.Email</div>
+                    </div>
+                    
+                    <div class="col-sm-2">
+                        <div class="pb-1">Telefon:</div>
+                    </div>
+                    <div class="col-sm-10">
+                        <div class="pb-1 fw-bolder">@Model.Phone</div>
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="pb-1">Adres:</div>
+                    </div>
+                    <div class="col-sm-10">
+                        <div class="pb-1 fw-bolder">@Model.Adrress</div>
+                    </div>
+                  
+                </div>
+            </div>
+
+			 <div class="col-md-5 offset-md-1" data-aos="fade-left" data-aos-delay="100"><img class="avatar img-fluid mt-2" src="@Model.ImageUrl" width="400" height="400" alt="@Model.AboutID" /></div>
+			
+        </div>
+    </div>
+</div>

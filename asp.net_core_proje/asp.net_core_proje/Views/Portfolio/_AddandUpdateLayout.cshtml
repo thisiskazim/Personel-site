@@ -1,0 +1,32 @@
+﻿
+@model Portfolio
+
+
+    <div class="wrap-input100 validate-input">
+        <input class="input100" type="text" asp-for="WebName" placeholder="Proje Name" required>
+        <span asp-validation-for="WebName"></span>
+    </div>
+     <div class="wrap-input100 validate-input">
+        <input class="input100" type="text" asp-for="Department" placeholder="Proje Kategorisi (ör: Web Tasarım)" required>
+        <span asp-validation-for="Department"></span>
+    </div>
+     <div class="wrap-input100 validate-input">
+        <input class="input100" type="text" asp-for="BigImageUrl" placeholder="Büyük Fotoğraf" required>
+        <span asp-validation-for="BigImageUrl"></span>
+    </div>
+     <div class="wrap-input100 validate-input">
+        <input class="input100" type="text" asp-for="SmallImageUrl" placeholder="Küçük Fotoğraf" required>
+        <span asp-validation-for="SmallImageUrl"></span>
+    </div>
+     <div class="wrap-input100 validate-input">
+        <input class="input100" type="text" asp-for="WebUrl" placeholder="Url">
+        <span asp-validation-for="WebUrl"></span>
+    </div>
+   
+
+    <div class="container-contact100-form-btn">
+        <button class="contact100-form-btn">
+            Kaydet
+        </button>
+    </div>
+

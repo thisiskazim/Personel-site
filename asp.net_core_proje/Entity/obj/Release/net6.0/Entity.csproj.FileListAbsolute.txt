@@ -1,0 +1,14 @@
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\bin\Release\net6.0\Entity.deps.json
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\bin\Release\net6.0\Entity.runtimeconfig.json
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\bin\Release\net6.0\Entity.dll
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\bin\Release\net6.0\Entity.pdb
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\Entity.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\Entity.dll
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\refint\Entity.dll
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\Entity.pdb
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\Entity.genruntimeconfig.cache
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\Entity\obj\Release\net6.0\ref\Entity.dll

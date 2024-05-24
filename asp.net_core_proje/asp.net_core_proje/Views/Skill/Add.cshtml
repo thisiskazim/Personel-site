@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewData["Title"] = "AddSkill";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+@model Skill
+
+
+
+
+
+
+<div class="container-contact100">
+    <div class="wrap-contact100">
+        <span class="contact100-form-title">
+            Yetenek Ekle
+        </span>
+        <form method="post" class="contact100-form">
+            <div class="wrap-input100 validate-input" data-validate="Lütfen Yetenek Giriniz">
+                <input class="input100" type="text" asp-for="SkillID" placeholder="YetenekID" hidden disabled>
+                <span class="focus-input100"></span>
+            </div>
+            <div class="wrap-input100 validate-input" data-validate="Lütfen Yetenek Giriniz">
+                <input class="input100" type="text" asp-for="Title" placeholder="Yetenek" required>
+                <span asp-validation-for="Title"></span>
+            </div>
+
+            <div class="wrap-input100 validate-input">
+                <input asp-for="Value" class="input100" type="number" name="Value" placeholder="Yetenek değeriniz 1-100" required>
+                <span asp-validation-for="Value" ></span>
+            </div>
+
+            <div class="container-contact100-form-btn">
+                <button class="contact100-form-btn">
+                    Kaydet
+                </button>
+            </div>
+        </form>
+
+
+    </div>
+</div>

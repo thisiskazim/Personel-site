@@ -1,0 +1,51 @@
+﻿@model List<WriterMessage>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_WriterLayout.cshtml";
+    string color = "";
+}
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Gelen Mesajlar</h4>
+
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Kimden</th>
+                                    <th>Konu</th>
+                                    <th>Mesaj</th>
+                                    <th>Tarih</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model){
+                            
+                                    <tr>
+                                        <td>@item.WriterMessageID</td>
+                                        <td>@item.Sender</td>
+                                        <td>@item.Object</td>
+                                        <td>@item.MessageContent</td>
+                                        <td>@(((item.Date.ToString("dd.MMM.yyyy"))))</td>
+                                        <td><a href="DetailsReceiverMessage/@item.WriterMessageID" class="btn btn-outline-primary">Detaylar</a></td>
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+</div>

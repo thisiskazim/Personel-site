@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+@model Experience
+
+
+
+
+
+
+<div class="container-contact100">
+    <div class="wrap-contact100">
+        <span class="contact100-form-title">
+            Deneyim Güncelle
+        </span>
+        <span style="color:red;" asp-validation-for="FirstDate"></span>
+        <form method="post" class="contact100-form">
+            <div class="wrap-input100 validate-input">
+                <input class="input100" type="text" asp-for="ExperienceID" hidden enabled>
+                <span class="focus-input100"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <input class="input100" type="text" asp-for="Name" placeholder="Deneyim Adı" required>
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <textarea class="input100" type="text" asp-for="Description" placeholder="İçerik" required></textarea>
+                <span asp-validation-for="Description"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <label>Başlangıç Tarihi</label>
+                <input class="input100" type="date" asp-for="FirstDate" placeholder="Başlangıç Tarihi" required>
+               
+            </div>
+            <div class="wrap-input100 validate-input">
+                <label>Bitiş Tarihi</label>
+                <input class="input100" type="date" asp-for="FinishDate" placeholder="Bitiş Tarihi" required>
+                <span style="color:red;" asp-validation-for="FinishDate"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+                <input class="input100" type="text" asp-for="ImageUrl" placeholder="Fotoğraf" required>
+                <span asp-validation-for="ImageUrl"></span>
+            </div>
+
+
+
+
+            <div class="container-contact100-form-btn">
+                <button class="contact100-form-btn">
+                    Kaydet
+                </button>
+            </div>
+        </form>
+
+
+    </div>
+</div>
+
+

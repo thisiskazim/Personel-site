@@ -1,0 +1,297 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Portfolyo_asp_net_core
+build_property.RootNamespace = Portfolyo_asp_net_core
+build_property.ProjectDir = C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\asp.net_core_proje\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\asp.net_core_proje
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Home/_footerPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXEhvbWVcX2Zvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Home/_HeadPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXEhvbWVcX0hlYWRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Home/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXEhvbWVcX05hdmJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Home/_scriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXEhvbWVcX3NjcmlwdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Home/_sidebarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXEhvbWVcX3NpZGViYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXExvZ2luXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Message/DetailsReceiverMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcRGV0YWlsc1JlY2VpdmVyTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Message/DetailsSendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcRGV0YWlsc1NlbmRNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Message/NewMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcTmV3TWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Message/ReceiverMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcUmVjZWl2ZXJNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Message/SendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcU2VuZE1lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXFJlZ2lzdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/UserProfil/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXFVzZXJQcm9maWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Areas/Writer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/About/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/AdminMessage/AddSendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXEFkZFNlbmRNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/AdminMessage/DetailsReceiver.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXERldGFpbHNSZWNlaXZlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/AdminMessage/DetailsSend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXERldGFpbHNTZW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/AdminMessage/ReceiverMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXFJlY2VpdmVyTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/AdminMessage/SenderMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXFNlbmRlck1lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Contact/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Contact/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxHZXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Contact/Messages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxNZXNzYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Contact/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/ErrorPage/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/ErrorPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Experience/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Experience/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxHZXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Experience/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Feature/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxHZXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Feature/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Home/SendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZW5kTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Portfolio/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Portfolio/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEdldExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Portfolio/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Portfolio/_AddandUpdateLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXF9BZGRhbmRVcGRhdGVMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Service/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Service/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxHZXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Service/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Service/_AddUpdateLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxfQWRkVXBkYXRlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/AboutList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/ContactList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/ExperienceList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXhwZXJpZW5jZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/FeatureList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/FeatureStatistics/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZVN0YXRpc3RpY3NcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/HeadList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/Last5Projects/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGFzdDVQcm9qZWN0c1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/MessageList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVzc2FnZUxpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/NavbarList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2YmFyTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/PortfolioList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9ydGZvbGlvTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/ProjectList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdExpc3RcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/ServicesList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VydmljZXNMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/SkillList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2tpbGxMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/SlideList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/SocialMediaList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU29jaWFsTWVkaWFMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/Components/StatisticsDashboard2/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3RhdGlzdGljc0Rhc2hib2FyZDJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/_LinkScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaW5rU2NyaXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Shared/_WriterLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Xcml0ZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Skill/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Skill/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcR2V0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/Skill/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/SocialMedia/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/SocialMedia/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcR2V0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/SocialMedia/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ferhat/Desktop/Kazım/Oluşturduğum web siteleri/asp.net_core_proje/asp.net_core_proje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

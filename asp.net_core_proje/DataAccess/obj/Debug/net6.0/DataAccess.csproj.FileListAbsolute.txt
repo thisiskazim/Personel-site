@@ -1,0 +1,34 @@
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\bin\Debug\net6.0\Entity.dll
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\bin\Debug\net6.0\Entity.pdb
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\ferhat\Desktop\Kazım\C#\asp.net_core_proje\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\bin\Debug\net6.0\Entity.dll
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\bin\Debug\net6.0\Entity.pdb
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\ferhat\Desktop\Kazım\Oluşturduğum web siteleri\asp.net_core_proje\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
